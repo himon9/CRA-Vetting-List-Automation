@@ -1,0 +1,284 @@
+Autodesk, Inc.
+UnitedHealth Group Inc
+Motorola Solutions, Inc.
+Brunswick Corporation
+Goldman Sachs
+Bristol-Myers Squibb Company
+Arrow Electronics, Inc.
+Johnson & Johnson
+State Street Corporation
+Albany International Corp.
+Willis Towers Watson
+Becton, Dickinson and Company
+Enviri
+Occidental Petroleum Corporation
+Jacobs Engineering Group, Inc.
+Jacobs Engineering Group, Inc.
+The Hain Celestial Group, Inc.
+Hasbro, Inc.
+T-Mobile USA, Inc.
+NCR Corporation
+Newmont Corporation
+MRC Global Inc
+MRC Global Inc
+Trane Technologies
+Amazon.com, Inc.
+Church & Dwight Co. Inc.
+MEDNAX, Inc.
+AAR Corp.
+Warner Music Group Corp.
+Global Payments, Inc.
+Dentsply Sirona Inc
+Synovus Financial Corp.
+Itron, Inc.
+Frontier Communications Corp
+Ingredion
+CommVault Systems, Inc.
+Advanced Energy Industries Inc
+Lumen Technologies, Inc.
+The Children's Place Services Company, LLC
+LKQ Corporation
+TechnipFMC
+H&E Equipment Services, Inc.
+MSCI Inc.
+Edwards Lifesciences Corp
+MasTec, Inc.
+TE Connectivity
+Salesforce.com, Inc.
+Clean Energy Fuels Corp.
+DocuSign, Inc.
+CommScope, Inc.
+Crocs Inc.
+TreeHouse Foods Inc.
+Green Dot Corporation
+KBR, Inc.
+Phreesia, Inc.
+Mirion Technologies, Inc.
+PacWest Bancorp - Brea
+Xencor, Inc.
+Xencor, Inc.
+CoreLogic Inc.
+The Howard Hughes Corporation
+Phillips 66
+Avanos Medical Inc.
+Diversified Gas & Oil PLC
+Arcus Biosciences Inc.
+Land O'Lakes, Inc.
+American Fidelity Corporation
+Environmental Systems Research Institute
+Evogen, Inc.
+Compass, Inc.
+The Kleinfelder Group, Inc.
+Maximus, Inc.
+Cisco Systems, Inc.
+Regions Financial Corporation
+Ford Motor Company
+Berkshire Hathaway
+Caterpillar Inc.
+Marriott International, Inc.
+Aon Corporation
+The Timken Company
+ONEX Corporation
+Lannett Company, Inc.
+Abbott Laboratories
+3M Company
+CIGNA Corporation
+CIGNA Corporation
+Genuine Parts Company
+S&P Global Inc.
+General Motors Corporation
+The Coca-Cola Company
+AT&T
+The Salvation Army
+MaineHealth
+PricewaterhouseCoopers LLP
+Visa Inc.
+Promega Corporation
+Truist Financial Corp
+The Boston Consulting Group, Inc.
+Crown Holdings, Inc.
+Crow Holdings
+CF Industries Holdings, Inc.
+Neuberger Berman LLC
+Jackson Walker LLP
+Northern Trust Corporation (HQ)
+Medtronic, Inc.
+Pacific Gas and Electric Company
+DuPont Specialty Products USA, LLC
+McKinsey & Company
+MetLife, Inc.
+CareFirst BlueCross BlueShield
+Major League Baseball
+Bridgestone Americas Inc.
+Applied Materials, Inc.
+AECOM
+RPM International Inc.
+APCO Worldwide, Inc.
+Relx Group PLC
+Blue Cross and Blue Shield of Florida, Inc.
+M. A. Mortenson Company
+Urban Outfitters, Inc.
+MFS Investment Management
+Medline Industries, Inc.
+H. Lee Moffitt Cancer Center & Research Institute
+J.B. Hunt Transport Services, Inc.
+Paul, Weiss, Rifkind, Wharton & Garrison
+Sutton Bank
+Institute Of International Education, Inc.
+Omaha Steaks International, Inc.
+Sealed Air Corp.
+SeaWorld Parks & Entertainment, Inc.
+Manhattan Associates Inc.
+Graphic Packaging International LLC
+APEX Analytix, Inc.
+Charles River Laboratories International, Inc.
+Gainwell Technologies
+Hilco Trading, LLC
+Energy Transfer LP
+Energy Transfer LP
+Blue Cross Blue Shield of Michigan, Inc.
+Unisys Corporation
+Staples, Inc.
+Paycor, Inc.
+Avid Technology, Inc.
+Aperture
+Sedgwick Claims Management Services Inc.
+STERIS Corporation
+Eaton Vance Corp.
+Health Care Service Corporation
+Humana Inc.
+Grant Thornton International, Ltd
+Assurant, Inc.
+GeoSyntec Consultants, Inc.
+School Specialty, Inc.
+Andersen Corporation
+Markel Corporation
+Benco Dental Supply
+Atkore International Group Inc.
+Hilton Grand Vacations Company
+Berkshire Hathaway
+Bluestem Brands, Inc.
+Fresenius Medical Care North America
+Arcosa, Inc.
+Western Digital Corporation
+Lennox International Inc.
+Kohlberg Kravis Roberts & Co. LP
+NVR, Inc.
+Orlando Health
+Prager & Co., LLC
+Elliott Management Corporation
+WellSky
+Circana
+Black Hills Corporation
+Pearson Education Inc.
+IQVIA Holdings Inc.
+Burns & McDonnell
+Expedia, Inc.
+Mittera Group, Inc.
+Hillyard Industries, Inc.
+Beth Israel Lahey Health
+FTI Consulting, Inc.
+Holland & Knight LLP
+Heat and Control, Inc.
+Public Consulting Group LLC
+Bain & Company Inc.
+Habitat For Humanity International Inc.
+American Institutes for Research
+OhioHealth
+Moss Adams LLP
+QuidelOrtho
+MedStar Health, Inc.
+Population Services International
+ScanSource, Inc.
+McKinsey & Company, Inc.
+Versar, Inc.
+Fortress Investment Group LLC
+Sabre Industries, Inc.
+Veradigm Inc.
+Picarro Inc.
+Ricardo, Inc.
+Ricoh Americas Corporation
+Doctors Without Borders (MSF-USA)
+EMCORE Corporation
+Teleperformance Group, Inc.
+Leonardo DRS
+Acosta Holdings Corp.
+Extreme Networks, Inc
+AutoNation, Inc.
+CBIZ
+Hillman Group, Inc.
+Copart, Inc.
+ICI Consulting
+JetBlue Airways Corporation
+Builders FirstSource, Inc.
+Clayton, Dubilier & Rice, Inc.
+McLane Co., Inc.
+Cornerstone Building Brands
+Entegris, Inc.
+Bill and Melinda Gates Foundation
+Wolters Kluwer
+Spirit Airlines Incorporated
+Chevron Phillips Chemical Co., LP
+Ares Management
+APi Group Corporation
+Concora Credit Inc.
+Keypath Education
+EnLink Midstream, LLC
+Robert Wood Johnson Foundation
+BeyondTrust Corporation
+QC Holdings, Inc.
+PLS Financial Services, Inc.
+Tyler Technologies, Inc.
+First Quality Enterprises, Inc.
+McAfee LLC
+Western Alliance Bank
+AEA Investors LP
+Golub Capital
+American Tire Distributors, Inc.
+Syneos Health Inc
+Proofpoint Inc
+Wisdom Tree Investments Inc
+Electrical Components International, Inc.
+Alliant Insurance Services
+Veritone Inc.
+CoorsTek, Inc.
+The Wine Group, Inc.
+Pace Industries Holdings, Inc.
+Extra Space Storage Inc.
+Guidepoint Global, LLC
+MedeAnalytics, Inc.
+Pohlad Companies Inc.
+Quorum Business Solutions, Inc.
+Catalent, Inc.
+Liquidity Services, Inc.
+Clarivate Analytics
+PineBridge Investments
+Copeland
+Drew Marine
+Jacksons Food Stores, Inc.
+Evention
+Post Holdings Inc
+Bridger Investment Partners LLC
+Malwarebytes Corporation
+Murphy USA
+Pact, Inc.
+Window Nation
+Altium, Inc.
+Color Image Apparel Inc.
+Paypal Holdings Inc
+PayScale, Inc.
+iManage LLC
+Tanium Inc.
+Corteva Agriscience
+HIAS
+Contruent LLC
+Vyond
+Community Brands
+GoBrands, Inc.
+The AZEK Company LLC
+V2X
+CompuCom Systems, Inc.
+ND Paper
+B. Riley Financial Inc
+Covetrus Inc.
+Primient LLC
